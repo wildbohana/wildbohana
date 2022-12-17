@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="tgw3.png"  />
-  <img height="150" src="icosahedron.gif"  />
-  <img height="150" src="wf-exca.png"  />
+  <img height="150" src="src/tgw3.png"  />
+  <img height="150" src="src/icosahedron.gif"  />
+  <img height="150" src="src/wf-exca.png"  />
 </div>
