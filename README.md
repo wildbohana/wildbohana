@@ -6,6 +6,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="icosahedron.gif"  />
   <img height="150" src="tgw3.png"  />
+  <img height="150" src="icosahedron.gif"  />
+  <img height="150" src="wednesday.webp"  />
 </div>
