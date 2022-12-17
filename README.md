@@ -7,6 +7,6 @@
 
 <div align="center">
   <img height="150" src="src/tgw3.png"  />
-  <img height="150" src="src/icosahedron.gif"  />
-  <img height="150" src="src/wf-ash.png"  />
+  <img height="160" src="src/icosahedron.gif"  />
+  <img height="130" src="src/wf-ash.png"  />
 </div>
