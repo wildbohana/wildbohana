@@ -6,15 +6,15 @@
 <br/>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;ГитХаб статистика</b></summary>
 
   <br/>
     <p align="center">
-        <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=wildbohana&locale=en&theme=nord" alt="wildbohana" />
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=wildbohana&locale=sr&theme=nord" alt="wildbohana" />
     </p>
     <p align="center">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=wildbohana&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&rank_icon=github" alt="wildbohana" /> 
-		<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildbohana&show_icons=true&locale=en&layout=compact&theme=nord&&size_weight=0.5&count_weight=0.5&langs_count=5&exclude_repo=html_gimnazija&count_private=true" alt="wildbohana" />
+        <img height="160px" src="https://github-readme-stats.vercel.app/api?username=wildbohana&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&rank_icon=github" alt="wildbohana" /> 
+		<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wildbohana&show_icons=true&locale=en&layout=compact&theme=nord&&size_weight=0.5&count_weight=0.5&langs_count=5&exclude_repo=html_gimnazija&count_private=true" alt="wildbohana" />
     </p>
 	<!--<p align="center">
 		<img height="157px" src="https://github-readme-activity-graph.cyclic.app/graph?username=wildbohana&theme=nord"> 
