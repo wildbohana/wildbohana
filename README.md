@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="src/mono2.jpg" width="22%" align="left" />
+  <img src="src/mono2.jpg" width="22%" align="right" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=200&color=f9fac0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1400&height=140&lines=Hello+world!;I'm+Bojana%2C+tech+enthusiast+and+software+engineer+%F0%9F%92%AB" width="60%" />
 
