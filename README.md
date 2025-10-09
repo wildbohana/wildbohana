@@ -14,8 +14,8 @@
   <div>
     <p>💼 BSC @ FTN • Back-end dev </p>
     <p>💻 Microservices • Software architecture • DevOps</p>
-    <p>🎮 Music • Games • Movies • Books</p>
-    <p>🪴 Plant lady</p>
+    <p>🪴 Plants • Books • Games • Movies</p>
+    <p>☕ Coffee powered</p>
   </div>
   
   ###
